@@ -1,0 +1,14 @@
+about kodingan:
+-page register(db: customer_info -apabila ada penambahan kolom)
+penambahan alert apabila ada pengisian yang salah
+password masih belum hash
+-page login (db: customer_info -apabila ada penambahan kolom)
+password masih belum hash
+-db customer_info pikir-pikir lagi isinya, ttl coret, tambahi contact, avatar hapus ae, gender gak harus, pengganti: alamat
+
+
+TODO LIST
+-Halaman register-Login 
+-Halaman list produk
+-Halaman checkout
+-

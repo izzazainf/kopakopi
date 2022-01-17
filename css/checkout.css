@@ -1,0 +1,73 @@
+body{
+    background-color: #0c1525;
+}
+.procedure-menu .process-active{
+    border-bottom: 2px solid #ffbc00;
+
+}
+.procedure-menu .process-active a{
+    color: #b8683a;
+}
+.procedure-menu a{
+    font-size: 24px;
+    color: #323b4b;
+    font-weight: bold;
+}
+.process-tittle{
+    color: white;
+    font-size: 17pt;
+    font-weight: bold;
+    text-align: center;
+}
+.form-penerima label{
+    color: white;
+    font-size: 14pt;
+    margin-top: 10px;
+}
+.form-penerima input{
+    width: 100%;
+    height: 30pt;
+    margin-top: 10px ;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    background-color: #323b4b;
+}
+.form-penerima .button{
+    display: block;
+    margin-left: 50%;
+    margin-top: 30px;
+}
+.form-penerima .button button{
+    height: 40px;    
+    width: 40%;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+}
+.button #back{
+    color: white;
+    background-color: #323b4b;
+}
+.button #next{
+    color: white;
+    margin-left: 5%;
+    background: linear-gradient(to left, #5404ca, #2d86f8);
+}
+
+
+
+
+.terms-title{
+    text-align: center;
+    color: #afafaf;
+    font-weight: bold;
+}
+.terms-subtitle{
+    text-align: center;
+    color: #afafaf;
+}
+.terms-content{
+    text-align: center;
+    color: #afafaf;
+}

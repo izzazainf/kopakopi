@@ -1,0 +1,15 @@
+.navbar-brand img{
+height: 80px;
+}
+.navbar-brand{
+  font-size: 30px;
+  color: #b8683a;
+  
+}
+.navbar{
+  background-color: #3c3f55;
+}
+.nav-item a{
+  color: white;
+  font-size: 20px;
+}
